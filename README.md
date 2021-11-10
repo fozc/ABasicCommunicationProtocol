@@ -8,8 +8,7 @@ detaylı bilgi edinebilirsiniz. Proteus simülasyonu "simulation" altında.
 Faydalı olması dileğiyle.
 
 
-This is a basic communication protocol for embedded systems. The sample project created with Microchip Mplab-X IDE.
-You can find Proteus simulation file under "simulation" folder.
+This is a basic communication protocol for embedded systems. The sample project was created with Microchip Mplab-X IDE. You can find the Proteus simulation file under the "simulation" folder.  
 
 I hope it will be useful for you.
 
