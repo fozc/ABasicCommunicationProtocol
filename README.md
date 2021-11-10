@@ -12,3 +12,10 @@ This is a basic communication protocol for embedded systems. The sample project 
 You can find Proteus simulation file under "simulation" folder.
 
 I hope it will be useful for you.
+
+
+
+
+
+![simulation](https://github.com/fozc/ABasicCommunicationProtocol/blob/master/sim.jpg)
+
